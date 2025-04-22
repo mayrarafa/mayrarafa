@@ -23,7 +23,8 @@ Sou uma estudante curiosa e determinada que acredita que segurança é coisa sé
 
 ### 🐟 Phishing? 
 
-![phishing-meme](https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif)
+![phishing-meme](![c5e4b06a-ecfb-4804-8a99-6441c448ca86](https://github.com/user-attachments/assets/916ea5d9-5279-4024-830c-34b1b2ae1e9b)
+)
 
 ---
 
