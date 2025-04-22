@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🧑‍💻 Olá! Eu sou a Mayra
 
-<!--
-**mayrarafa/mayrarafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Cibersegurança**  
+🔐 Apaixonada por segurança da informação, redes e memes de phishing 😄  
+💻 Explorando o mundo da tecnologia com entusiasmo e bom humor  
+🌱 Atualmente estudando: Fortigate, pfSense, Go e Banco de Dados  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e ferramentas
+- Redes e Segurança 🔒
+- Análise de vulnerabilidades
+- Ferramentas de pentest (em aprendizado)
+
+---
+
+### 🤓 Sobre mim
+Sou uma estudante curiosa e determinada que acredita que segurança é coisa séria — mas aprender pode (e deve) ser leve e divertido!
+
+> "Hackers não invadem sistemas... exploram descuidos. Segurança começa na consciência."
+
+---
+
+### 🐟 Phishing? 
+
+![phishing-meme](https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif)
+
+---
+
+### 📬 Vamos nos conectar?
+- 💌 [LinkedIn](https://www.linkedin.com/in/mayra-rafaela-17a1102a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
