@@ -9,10 +9,6 @@
 >  **Sou apaixonada por pesquisar vulnerabilidades e malware**, e encontrar formas criativas  
 > de me proteger contra ameaças cibernéticas.  
 >  
->  
->  *Fun fact:* Na minha primeira vez configurando um **pfSense**, consegui bloquear a internet...  
-> inclusive da minha própria VM 😅  
-> Mas **segurança vem primeiro**, né? 🔒✨
 
 ### aprendizagem:
 <p align="left">
