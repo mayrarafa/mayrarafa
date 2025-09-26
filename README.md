@@ -6,8 +6,7 @@
 </p>
 ## 🌸 Um pouquinho sobre mim:
 
->  **opa eu**, e encontrar formas criativas  
-> de me proteger contra ameaças cibernéticas.  
+>  **opa eu**.  
 >  
 
 ### aprendizagem:
