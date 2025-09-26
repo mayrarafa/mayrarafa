@@ -6,7 +6,7 @@
 </p>
 ## 🌸 Um pouquinho sobre mim:
 
->  **Sou apaixonada por pesquisar vulnerabilidades e malware**, e encontrar formas criativas  
+>  **opa eu**, e encontrar formas criativas  
 > de me proteger contra ameaças cibernéticas.  
 >  
 
